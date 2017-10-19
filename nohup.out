@@ -1,0 +1,113 @@
+Traceback (most recent call last):
+  File "/root/scripts/createVmwareCluster.py", line 6, in <module>
+    import yaml
+ImportError: No module named yaml
+
+passwd: password updated successfully
+
+
+passwd: password updated successfully
+
+
+passwd: password updated successfully
+
+
+passwd: password updated successfully
+
+2017-07-25 12:42:45,526 - ucs - DEBUG - /root/scripts/hx-cluster-ucsm-a.xml
+     16384  [15.04%]     24576  [22.56%]     32768  [30.09%]     49152  [45.13%]     57344  [52.65%]     65536  [60.17%]     81920  [75.21%]     90112  [82.74%]     98304  [90.26%]    114688  [105.30%]    122880  [112.82%]Unable to find image 'mgarcias/dcv-automation-base:latest' locally
+latest: Pulling from mgarcias/dcv-automation-base
+7c0e0633589d: Pulling fs layer
+0a0abca87604: Pulling fs layer
+2ad6af5f3a21: Pulling fs layer
+227caabe69ac: Pulling fs layer
+b153e0938a5b: Pulling fs layer
+e9141699486b: Pulling fs layer
+8c70965561f4: Pulling fs layer
+0bfe74909d6e: Pulling fs layer
+e340a6db8c94: Pulling fs layer
+261a6646cd83: Pulling fs layer
+0dbb81b49472: Pulling fs layer
+6b63b4507b5d: Pulling fs layer
+b26994432a23: Pulling fs layer
+812afafd39da: Pulling fs layer
+d77c42239ae6: Pulling fs layer
+45098727bab0: Pulling fs layer
+df80ccb43ecc: Pulling fs layer
+ea62b837f0d6: Pulling fs layer
+527d293f8d3c: Pulling fs layer
+69ed86aa7e7d: Pulling fs layer
+c969840fbdfc: Pulling fs layer
+744e0a59c2ab: Pulling fs layer
+58bb69a97061: Pulling fs layer
+0a0abca87604: Verifying Checksum
+0a0abca87604: Download complete
+b153e0938a5b: Verifying Checksum
+b153e0938a5b: Download complete
+227caabe69ac: Verifying Checksum
+227caabe69ac: Download complete
+2ad6af5f3a21: Verifying Checksum
+2ad6af5f3a21: Download complete
+e9141699486b: Verifying Checksum
+e9141699486b: Download complete
+c969840fbdfc: Verifying Checksum
+c969840fbdfc: Download complete
+527d293f8d3c: Verifying Checksum
+527d293f8d3c: Download complete
+ea62b837f0d6: Verifying Checksum
+ea62b837f0d6: Download complete
+0dbb81b49472: Verifying Checksum
+0dbb81b49472: Download complete
+69ed86aa7e7d: Verifying Checksum
+69ed86aa7e7d: Download complete
+744e0a59c2ab: Verifying Checksum
+744e0a59c2ab: Download complete
+b26994432a23: Verifying Checksum
+b26994432a23: Download complete
+8c70965561f4: Verifying Checksum
+8c70965561f4: Download complete
+812afafd39da: Verifying Checksum
+812afafd39da: Download complete
+58bb69a97061: Verifying Checksum
+58bb69a97061: Download complete
+df80ccb43ecc: Verifying Checksum
+df80ccb43ecc: Download complete
+45098727bab0: Verifying Checksum
+45098727bab0: Download complete
+261a6646cd83: Verifying Checksum
+261a6646cd83: Download complete
+0bfe74909d6e: Verifying Checksum
+0bfe74909d6e: Download complete
+e340a6db8c94: Verifying Checksum
+e340a6db8c94: Download complete
+6b63b4507b5d: Verifying Checksum
+6b63b4507b5d: Download complete
+d77c42239ae6: Verifying Checksum
+d77c42239ae6: Download complete
+7c0e0633589d: Verifying Checksum
+7c0e0633589d: Download complete
+7c0e0633589d: Pull complete
+0a0abca87604: Pull complete
+2ad6af5f3a21: Pull complete
+227caabe69ac: Pull complete
+b153e0938a5b: Pull complete
+e9141699486b: Pull complete
+8c70965561f4: Pull complete
+0bfe74909d6e: Pull complete
+e340a6db8c94: Pull complete
+261a6646cd83: Pull complete
+0dbb81b49472: Pull complete
+6b63b4507b5d: Pull complete
+b26994432a23: Pull complete
+812afafd39da: Pull complete
+d77c42239ae6: Pull complete
+45098727bab0: Pull complete
+df80ccb43ecc: Pull complete
+ea62b837f0d6: Pull complete
+527d293f8d3c: Pull complete
+69ed86aa7e7d: Pull complete
+c969840fbdfc: Pull complete
+744e0a59c2ab: Pull complete
+58bb69a97061: Pull complete
+Digest: sha256:4ed04f15c80ebb6571f2980dd1395b533eeb8a835da71ac66073fbd222092e4d
+Status: Downloaded newer image for mgarcias/dcv-automation-base:latest

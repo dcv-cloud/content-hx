@@ -1,0 +1,41 @@
+lab:
+    vsphere:
+        host:
+        -
+                   ip: 198.18.135.201
+                   hostname: "HX-01.dcloud.cisco.com"
+                   user: root
+                   pw: Cisco123
+        -
+                   ip: 198.18.135.202
+                   hostname: "HX-02.dcloud.cisco.com"
+                   user: root
+                   pw: Cisco123
+
+        -
+                   ip: 198.18.135.203
+                   hostname: "HX-03.dcloud.cisco.com"
+                   user: root
+                   pw: Cisco123
+
+        -
+                   ip: 198.18.135.204
+                   hostname: "HX-04.dcloud.cisco.com"
+                   user: root
+                   pw: Cisco123
+
+
+        vcenter:
+                   ip: 198.18.133.30
+                   user: demouser@dcloud.cisco.com
+                   pw: C1sco12345
+        topology:
+        -          dc:
+                        name: dCloud-HX-DC-B
+                        clusters:
+                        -    name: hx-cluster-b
+                             members:
+                             -  ip: 198.18.135.201
+                             -  ip: 198.18.135.202
+                             -  ip: 198.18.135.203
+                             -  ip: 198.18.135.204

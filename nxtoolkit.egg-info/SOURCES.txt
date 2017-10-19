@@ -1,0 +1,6 @@
+nxtoolkit/setup.py
+nxtoolkit.egg-info/PKG-INFO
+nxtoolkit.egg-info/SOURCES.txt
+nxtoolkit.egg-info/dependency_links.txt
+nxtoolkit.egg-info/requires.txt
+nxtoolkit.egg-info/top_level.txt
